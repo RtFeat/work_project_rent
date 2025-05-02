@@ -1,0 +1,21 @@
+:root {
+    --color-primary-5: rgba(255, 255, 255, 255);
+    --color-primary-10: rgba(240, 240, 240, 1);
+    --color-primary-15: rgba(204, 204, 204, 1);
+    --color-primary-20: rgb(193, 193, 193);
+    --color-primary-25: rgb(29, 29, 29);
+
+    --color-secondary-5: rgba(0, 0, 0);
+
+    --color-accent-5: #0088cc;
+    --color-accent-10: linear-gradient(90deg, rgba(159,116,55,1) 0%, rgba(227,210,147,1) 100%);
+    --color-accent-15: linear-gradient(90deg, rgb(103, 76, 37) 0%, rgb(94, 91, 49) 100%);
+
+
+    --color-medium-5: rgba(244, 244, 244, 1);
+    --color-medium-10: rgba(240, 239, 235, 1);
+
+    /* Layout */
+    --container-indent: 16px;
+    --container-width: clamp(1400px, 62vw + 20px, 1597px);
+}

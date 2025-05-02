@@ -1,0 +1,11 @@
+.equipment-block {
+    color: var(--color-secondary-5);
+}
+
+.text-grey {
+    color: var(--color-primary-20) !important;
+}
+
+input {
+    color: var(--color-secondary-5);
+}
